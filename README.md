@@ -1,4 +1,4 @@
-# Hi there! <img src="https://slackmojis.com/emojis/110438-pika-wave/download" width="25"/>
+## Hi there! <img src="https://slackmojis.com/emojis/110438-pika-wave/download" width="25"/>
 
 I'm **Maya**, a Computer Science & Engineering student at **CUET**.
 
