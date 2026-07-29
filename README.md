@@ -2,7 +2,7 @@
 
 I'm **Maya**, a Computer Science & Engineering student at **CUET**.
 
-I'm passionate about **Competitive Programming**, **Data Structures & Algorithms** and **Machine Learning**. I'm currently focused on strengthening my problem-solving skills while building practical software and AI projects.
+I'm passionate about **Competitive Programming**, **Data Structures & Algorithms** and **Machine Learning**. I'm currently focused on strengthening my problem-solving skills while building practical software and projects.
 
 I enjoy turning ideas into software and continuously improving my engineering skills.
 
